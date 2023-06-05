@@ -22,5 +22,5 @@ This project taught me about positioning and proper nesting. One of the issues I
 
 ### Links
 
-- Live Site URL: [NFT Preview Card Component](https://your-live-site-url.com)
-- View my other challenges here: [Main Repository](#)
+- Live Site URL: [NFT Preview Card Component](https://frontendmentor-03-nft-card.vercel.app/)
+- View my other challenges here: [Challenges Page](https://frontendmentor-00-main.vercel.app/)
